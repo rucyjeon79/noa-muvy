@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "EP 시네마",
+      "hasCanvas": false,
+      "bodyTextLen": 92,
+      "bodyTextHash": "d5ea1e5aaf72c7d95988528668e798d986b3112c20ae9d60a391f82188a9edbb",
+      "bodyTextPrefix": "EPISODIC 시네마 패키지 EP 번호, 제목, 가사로 30컷 대본과 프롬프트, 썸네일, 유튜브 글을 한 곡으로 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "EP 시네마",
+      "hasCanvas": false,
+      "bodyTextLen": 92,
+      "bodyTextHash": "d5ea1e5aaf72c7d95988528668e798d986b3112c20ae9d60a391f82188a9edbb",
+      "bodyTextPrefix": "EPISODIC 시네마 패키지 EP 번호, 제목, 가사로 30컷 대본과 프롬프트, 썸네일, 유튜브 글을 한 곡으로 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

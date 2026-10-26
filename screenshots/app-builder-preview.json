@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NOA MUVY",
+      "hasCanvas": false,
+      "bodyTextLen": 93,
+      "bodyTextHash": "980b00401f8aecc46c8fcfa20d42f6654d6d42b422780cd7750c50a336c2f147",
+      "bodyTextPrefix": "EPISODIC NOA MUVY EP 번호, 제목, 가사로 30컷 대본과 프롬프트, 썸네일, 유튜브 글을 한 곡으로",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NOA MUVY",
+      "hasCanvas": false,
+      "bodyTextLen": 93,
+      "bodyTextHash": "980b00401f8aecc46c8fcfa20d42f6654d6d42b422780cd7750c50a336c2f147",
+      "bodyTextPrefix": "EPISODIC NOA MUVY EP 번호, 제목, 가사로 30컷 대본과 프롬프트, 썸네일, 유튜브 글을 한 곡으로",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
